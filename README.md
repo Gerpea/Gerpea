@@ -30,4 +30,4 @@
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@gerpea&layout=compact&hide_border=true&bg_color=080707&text_color=fff5f5&title_color=cbc3c3&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## &#x1f4ac; Find me
-[![](https://img.shields.io/badge/-Twitter-080707?style=flat-square&logo=twitter&logoColor=080707&color=080707&labelColor=76f566)](https://twitter.com/gerrpea)[![](https://img.shields.io/badge/-StackOverflow-080707?style=flat-square&logo=stackoverflow&logoColor=080707&color=080707&labelColor=76f566)](https://stackoverflow.com/users/12937539/gerpea)
+[![](https://img.shields.io/badge/-Twitter-080707?style=flat-square&logo=twitter&logoColor=080707&color=080707&labelColor=76f566)](https://twitter.com/gerrpea) [![](https://img.shields.io/badge/-StackOverflow-080707?style=flat-square&logo=stackoverflow&logoColor=080707&color=080707&labelColor=76f566)](https://stackoverflow.com/users/12937539/gerpea)
